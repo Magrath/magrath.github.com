@@ -1,85 +1,69 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!doctype html>
+<html>
   <head>
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8"  />
-    <title>paul magrath</title>
-    <style type="text/css">
-      * {
-        margin: 0;
-        padding: 0;
-      }
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Paul Magrath by Magrath</title>
 
-      body {
-        /* background: url(magrath.jpg) no-repeat; */
-        /* height: 1024px; */
-      }
-
-      ul {
-		margin-top: 50px;
-        list-style-type: none;
-      }
-
-	  #content {
-		position: absolute;
-		left: 450px;
-        top: 30px;
-	  }
-
-      #repos {
-      }
-
-      a {
-        color: #bbb;
-        font-family: Lucida Grande;
-        line-height: 18px;
-      }
-
-      h3 {
-        font-family: Lucida Grande;      
-      }
-    </style>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js" type="text/javascript"></script>
-    <script type="text/javascript">
-		<!--
-      $(function() {
-        var limit = 10        // how many repos to list
-        var login = 'magrath' // your username
-
-        $.getJSON('http://github.com/api/v1/json/' + login + '?callback=?', function(data) {
-          var repos = $.grep(data.user.repositories, function() {
-            return !this.fork
-          })
-
-          repos.sort(function(a, b) {
-            return b.watchers - a.watchers
-          })
-
-          $.each(repos.slice(0, limit), function() {
-            $('#repos').append('<li><a href="' + this.url + '">' + this.name + '</a></li>')
-          })
-        })        
-      })
-	-->
-    </script>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
   </head>
   <body>
-	<a href="http://github.com/magrath/magrath.github.com"><img alt="Fork me on Github" style="position:absolute; top: 0; left: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png" /></a>            
-	<div id="content">
-    <ul>
-	  <li><h3>me</h3></li>
-      <li><a href="mailto:paul[at]paulmagrath[dot]com">paul</a>@<a href="http://paulmagrath.com">paulmagrath.com</a></li>	
-      <li><a href="http://twitter.com/paulmagrath">twitter.com/paulmagrath</a></li>
-      <li><a href="http://github.com/magrath">github.com/magrath</a></li>
-    </ul>
-    <ul>
-	  <li><h3>projects</h3></li>
-      <li><a href="http://magrath.github.com/Centrifuge">magrath.github.com/Centrifuge</a></li>
-    </ul>
-    <ul id="repos">
-      <li><h3>repositories</h3></li>
-    </ul>
-	</div>
+    <div class="wrapper">
+      <header>
+        <h1>Paul Magrath</h1>
+        <p></p>
+
+
+        <p class="view"><a href="https://github.com/Magrath">View My GitHub Profile</a></p>
+
+      </header>
+      <section>
+        <p>Bag Attributes
+    friendlyName: 's The USERTRUST Network ID
+    localKeyID: 56 02 15 58 17 1A 90 F6 57 9B 3B F8 87 9A 99 13 F6 0B F5 82 
+subject=/emailAddress=<a href="mailto:paul@paulmagrath.com">paul@paulmagrath.com</a>
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO Client Authentication and Secure Email CA
+-----BEGIN CERTIFICATE-----
+MIIFKTCCBBGgAwIBAgIQIhOVt8JtzZh4ni7Yd7qE/TANBgkqhkiG9w0BAQUFADCB
+kzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxOTA3BgNV
+BAMTMENPTU9ETyBDbGllbnQgQXV0aGVudGljYXRpb24gYW5kIFNlY3VyZSBFbWFp
+bCBDQTAeFw0xMjEwMTAwMDAwMDBaFw0xMzEwMTAyMzU5NTlaMCUxIzAhBgkqhkiG
+9w0BCQEWFHBhdWxAcGF1bG1hZ3JhdGguY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAv7pz4lOceobG0X5p4FJ2KClIzz9eqF5FAf9l4TEveGgXU0Ux
+FMgpUowP9nu4Bfa+R1G8AFtqGcE7UjqPzcGtuLtQddprgU82v+UJDQScWdfkmDTP
+bSPOMANKLTThV+alQGaAWR1cZeGhf+KxH6prCa/wldsWj/M7k22y9Z6jNGpaAIG3
+UqO2scakfiz0srLQ99gk+h0PPhTqud8KCKLyMLtqvKC/gPHiSNuVcXGvrRA6eR2/
+henRrnq4r6GPAb5/+V5GLylQdih4GMH4lZnTuXctgMKR8xlahvM7+kdOHMPaojJG
+S1UI5RrgAUw7R1LbyKCmfCQrFhZWsXHrVTulDwIDAQABo4IB5DCCAeAwHwYDVR0j
+BBgwFoAUehNOAHRbxnhjZCfBL+KgW7x5xXswHQYDVR0OBBYEFJNv2l5maOMDd5kx
+sali0qr18+W5MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMCAGA1UdJQQZ
+MBcGCCsGAQUFBwMEBgsrBgEEAbIxAQMFAjARBglghkgBhvhCAQEEBAMCBSAwRgYD
+VR0gBD8wPTA7BgwrBgEEAbIxAQIBAQEwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9z
+ZWN1cmUuY29tb2RvLm5ldC9DUFMwVwYDVR0fBFAwTjBMoEqgSIZGaHR0cDovL2Ny
+bC5jb21vZG9jYS5jb20vQ09NT0RPQ2xpZW50QXV0aGVudGljYXRpb25hbmRTZWN1
+cmVFbWFpbENBLmNybDCBiAYIKwYBBQUHAQEEfDB6MFIGCCsGAQUFBzAChkZodHRw
+Oi8vY3J0LmNvbW9kb2NhLmNvbS9DT01PRE9DbGllbnRBdXRoZW50aWNhdGlvbmFu
+ZFNlY3VyZUVtYWlsQ0EuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21v
+ZG9jYS5jb20wHwYDVR0RBBgwFoEUcGF1bEBwYXVsbWFncmF0aC5jb20wDQYJKoZI
+hvcNAQEFBQADggEBAIPG1uXerS70iUlsmWui60L6QSKQLH33Md3FqQ/V4vRSbFKk
+LtaFz0eisE/YiJ2qxutDb1HNXGODBTqdtm+hyHUY7OpM4OOIL86w/Fuei6B4JSWf
+8FN9XPtbBBJLQfn7Kjc/AvFFTnVB3wc5jWLFkKHAdydu9PUEOm31DOp3yo5us/tK
+QKGtLwHu1nkIQt6SUjoHymcuEMgjTgc3efCePaAj0+xJXLv0iw64gW2eaIUw710/
+kXg+nehQjNYmTC7ROX/ci52aGWg+BlCQ7atOSNYyTfrm+29yLUyY61gWFQOKcTeF
+7dvDojcqiObogwBtN0hkotq/t9FVPuu5tpomYLs=
+-----END CERTIFICATE-----</p>
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
   </body>
 </html>
