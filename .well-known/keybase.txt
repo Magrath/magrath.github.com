@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/magrath
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://paulmagrath.com
+  * I am magrath (https://keybase.io/magrath) on keybase.
+  * I have a public key with fingerprint 2E5C DEAB 4D40 9D65 A021  9901 7345 6BCA F35E 7F01
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "2e5cdeab4d409d65a021990173456bcaf35e7f01",
+            "host": "keybase.io",
+            "key_id": "73456bcaf35e7f01",
+            "uid": "fe188eb716602ed27a72ae4aa30e2400",
+            "username": "magrath"
+        },
+        "service": {
+            "hostname": "paulmagrath.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1407183969,
+    "expire_in": 157680000,
+    "prev": "ac53cb017fd77d29238187bde51fa5f772bff7eb8b395a140bf4c9b33e9bbd51",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.11 (Darwin)
+
+owGbwMvMwMQotJFVvU3qtBPj6QNfkhiC779JrVZKyk+pVLKqVspOBVNpmXnpqUUF
+RZl5JUpWSkappskpqYlJJikmBpYpZqaJBkaGlpYGhubGJqZmScmJacamqeZpBoZK
+OkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgpQFIv6UrBEWqqhhUVqkrmhmZmBUWqKkXmi
+uVFiqkliorFBqpGJgQFIYXFqUV5ibipQdW5ielFiSYZSrY4SULAsMzkV5GSQzVAF
+BYmlOVBFesn5uUDdBUX5JfnJ+TlAyYySkgIrkN6SygKQ4vLUpHioMfFJmXkpQJ8D
+NZSlFhVn5ucpWRkCVSaXZILMNTQxMDe0MLY0s9RRSq0oyCxKjc8EqTA1N7MwAAKQ
+NallQCMTk02Nk5OA4ZOWYm6eYmRpZGxhaGGelJJqapiWaJpmbm6UlJZmnppkkWRs
+aZoINDYpzSTZMsnYONUyKSnFFBQuxamFeflKVmZAZyamA40szkzPSywpLUpVquXq
+ZJJhYWBkYmBjZQJFHgMXpwAsSgPC+P+HFIlNk6+Vjnwg3Wx/6u0ay6PiFZwB64tn
+hS24L7tlZeaUZ8+SnLSmvWFSebhP9vc1T517z5/diJ7+RWHul/+bhXgElQ64GJ3j
+PlIzb+IrblldPzE/hsBNOyxy05tqpD35bbY8X7ay1rWz+5XS1Elz2CQ27rt/8tKj
+Mq+WG79tX6yu8trZ0bVzheYV9Z4rairzrn48dtZ66beA77qKLMZMHInZntdY1dbY
+F1721vz3VHbeB+FNkzpSZk+df+9I23PO8tcPr+wvyhNK0vb+1BueYSv7cEZ4cQzr
+NntZjbCCnD1Viyd9m7/ynDCvtI7DOakDt2+aiu/8YrpYZ9EZxh3zV0SWCLyc9ymS
+fbLqruL5Qb/K//xym9EcPW36F2bWqW+nXzviuf5uptWfrJRM82e7G90uKM5p2yDw
+tJbt/JtNAqG1coJ//rY4PzrT8f/Q/wSlz6JWi2/m14gJVGxTzL9yyamlld1JbVZv
+II/b/hXF8w/wVJvN/1P5q+7VDpWL7BedRdgn1qodmVBsP9Oi951Cp0hR6RFzM/bw
+02nLJoc/XNu35+SGnC/bJt8QiM4Oefu9Yf/LGz9Wqs99MyFQRjPvrbkFc37LJ4t7
+Hw7r2L0LWvJN2e1Lwsyku+1qqSfnlB165buw/9EpFR1fk29yzQ8lvBKOysqtlrk1
+e3/UFVNfy4c/Lu4udpGsWePEUJs2+du328sEDrJc7ZQS5VXfAAA=
+=rlcM
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/magrath
+
+==================================================================
+
