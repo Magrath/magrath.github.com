@@ -4,61 +4,73 @@ https://keybase.io/magrath
 
 I hereby claim:
 
-  * I am an admin of http://paulmagrath.com
+  * I am an admin of https://paulmagrath.com
   * I am magrath (https://keybase.io/magrath) on keybase.
-  * I have a public key with fingerprint 2E5C DEAB 4D40 9D65 A021  9901 7345 6BCA F35E 7F01
+  * I have a public key with fingerprint 4E1E 2273 E7C7 0882 93CE  C585 8109 C2B4 373A A79F
 
 To claim this, I am signing this object:
 
 {
     "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.3"
+        },
         "key": {
-            "fingerprint": "2e5cdeab4d409d65a021990173456bcaf35e7f01",
+            "fingerprint": "4e1e2273e7c7088293cec5858109c2b4373aa79f",
             "host": "keybase.io",
-            "key_id": "73456bcaf35e7f01",
+            "key_id": "8109C2B4373AA79F",
             "uid": "fe188eb716602ed27a72ae4aa30e2400",
             "username": "magrath"
         },
+        "merkle_root": {
+            "ctime": 1420483748,
+            "hash": "6787dd6da9b41b41928714f08d67e2fb64ac818f0534c3ff89766853424599715b9bf8555e95b14ec6046c1553c8ad5ec0a823ad9ad83b1ee5bf146924fa36d6",
+            "seqno": 122042
+        },
         "service": {
             "hostname": "paulmagrath.com",
-            "protocol": "http:"
+            "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1407183969,
+    "ctime": 1420483795,
     "expire_in": 157680000,
-    "prev": "ac53cb017fd77d29238187bde51fa5f772bff7eb8b395a140bf4c9b33e9bbd51",
-    "seqno": 6,
+    "prev": "861343a1d3a1a11f17372e981faca9501a72607c4ee17319870dc5635f5cb786",
+    "seqno": 14,
     "tag": "signature"
 }
 
 with the aforementioned key, yielding the PGP signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG v1.4.11 (Darwin)
 
-owGbwMvMwMQotJFVvU3qtBPj6QNfkhiC779JrVZKyk+pVLKqVspOBVNpmXnpqUUF
-RZl5JUpWSkappskpqYlJJikmBpYpZqaJBkaGlpYGhubGJqZmScmJacamqeZpBoZK
-OkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgpQFIv6UrBEWqqhhUVqkrmhmZmBUWqKkXmi
-uVFiqkliorFBqpGJgQFIYXFqUV5ibipQdW5ielFiSYZSrY4SULAsMzkV5GSQzVAF
-BYmlOVBFesn5uUDdBUX5JfnJ+TlAyYySkgIrkN6SygKQ4vLUpHioMfFJmXkpQJ8D
-NZSlFhVn5ucpWRkCVSaXZILMNTQxMDe0MLY0s9RRSq0oyCxKjc8EqTA1N7MwAAKQ
-NallQCMTk02Nk5OA4ZOWYm6eYmRpZGxhaGGelJJqapiWaJpmbm6UlJZmnppkkWRs
-aZoINDYpzSTZMsnYONUyKSnFFBQuxamFeflKVmZAZyamA40szkzPSywpLUpVquXq
-ZJJhYWBkYmBjZQJFHgMXpwAsSgPC+P+HFIlNk6+Vjnwg3Wx/6u0ay6PiFZwB64tn
-hS24L7tlZeaUZ8+SnLSmvWFSebhP9vc1T517z5/diJ7+RWHul/+bhXgElQ64GJ3j
-PlIzb+IrblldPzE/hsBNOyxy05tqpD35bbY8X7ay1rWz+5XS1Elz2CQ27rt/8tKj
-Mq+WG79tX6yu8trZ0bVzheYV9Z4rairzrn48dtZ66beA77qKLMZMHInZntdY1dbY
-F1721vz3VHbeB+FNkzpSZk+df+9I23PO8tcPr+wvyhNK0vb+1BueYSv7cEZ4cQzr
-NntZjbCCnD1Viyd9m7/ynDCvtI7DOakDt2+aiu/8YrpYZ9EZxh3zV0SWCLyc9ymS
-fbLqruL5Qb/K//xym9EcPW36F2bWqW+nXzviuf5uptWfrJRM82e7G90uKM5p2yDw
-tJbt/JtNAqG1coJ//rY4PzrT8f/Q/wSlz6JWi2/m14gJVGxTzL9yyamlld1JbVZv
-II/b/hXF8w/wVJvN/1P5q+7VDpWL7BedRdgn1qodmVBsP9Oi951Cp0hR6RFzM/bw
-02nLJoc/XNu35+SGnC/bJt8QiM4Oefu9Yf/LGz9Wqs99MyFQRjPvrbkFc37LJ4t7
-Hw7r2L0LWvJN2e1Lwsyku+1qqSfnlB165buw/9EpFR1fk29yzQ8lvBKOysqtlrk1
-e3/UFVNfy4c/Lu4udpGsWePEUJs2+du328sEDrJc7ZQS5VXfAAA=
-=rlcM
+owFdkgtMHEUYx4+TIq9SglRSeW8xiEXc9+xiLAEFbXkUlSiRGDq7OwsLx+2xd9Ae
+BQJtWttUKIaSJgSBPhTaEkBAa6hiqVorCEgRCGpqC+GVNCV92BSl4i7BpLqZTWbm
++33f/P/zTc3GJ0xml0qPyz0gtqXJZXBRMGWc+21sHyaokhOL3YeJFgVZHcbMCgsQ
+FovlI6cA7ShGUcOsqoRi8uxh60w0Vow0u6JadQqPATEUVhZt4EayrFhzkGbTFKMW
+RiMCkSSgEBABznEkT4lIZDiGI3BeJAWaAhSEgJf1krmq3fGfU7G1mtmKpO8a/Ctk
+gsHHxwM+SY8VrQVkRHAcEgDBsjiJJBJAQEJEQ0jhiKRx3ADtSFu3VABzNOjINeQW
+IC3fgrI1VV3zLDoUgyBoEqc5CtCcLgjac/UcFnBAklgJ8gJN6IMnOUDQMs5JLECk
+LLA0FDmCk3GGokVKljkesCynL0ia4XlAMAIvyBzDMIhnBIJGIovTrEgwDCVyUGKQ
+iEOOpKDEQ4mjBAIhRpAJmuVJWoYUK7G6AzsqtKq6OFIXR5YZa61YEZGh27i1dXM2
+WGRZNxgjqgV6nk1THaqoWvRgrsNhs8caxh1Om0Hv+RQJ2euFsgXFKul9e7yxhI7+
+71J4JhpDe22KhrIVg2AAy+H6ZxyEio0usQRFU5CQ9B8ShEwACpCI5wgZipBncEJv
+DosDkUZIDxE8B3BJZFiKkRlRANzjVmldKMzRa9qVHCt0FGkIKztiDnI1uZhNbhvM
+xtM1eXr4/vueqzw2/R3e+F5OZ9TSn+X+4asbS5/py3I2+9y1z+3o7ioqfuODwE4f
+vOLg6V3ptmlbx+xCceXVGS+ma9jREBGqpi9F1p7/VR1eqGj9C25xdwuImloNrLZM
+327gt11d/OXLntlDWV4pSW07+2w7xuLfPt0T0ZoanFHi45V1auV+1hfnpq9Y3onb
+7toQ+ONz4M6KuSVhq5vzQOeCdeazkpJ6U1SfmTIrwTZwandmyFDCdY+Osnp7XYUU
+oU2sWBvy0pLzkybf/X7+/SnWZ//21Zde9R2kL4Q0+3lvSjJ3XRp6svyIsvCR81bT
+53sDr+TUNCfAiqDklYnGG7mJA8u1ddLr/v1s7c28yYGAPbsz6dDl4fzW5F2NI4XL
+L34XdNBtZPryyzJTkib7i16+7l43T0y1nSjvfjjYFhXVPxHx9aTmZ5lP8ewNWQwY
+jExP/719/P61lu72OT9P70TXu/XYN5/0iierV187jrYU77xn/lYIzXzzUmeH+6P5
+MxcfjnSWjA5pKflPDzSlz6Y4q2ZSz9YHhB9pKrz90/5tN9IqJ9pENPlHxgvc86Pt
+E2eryzYfv5ZQQ44/GPrqqXuhRzMCvDPy4s6gkGPagdJD9RNjdyz9FeNmrHOrx1vE
+h9d/HoSR0lRY5uj5H5I3dD0rbj5ck4olSofTTtat3iqfK1UeBFf7FH7cm95VtRR/
+7CIZ9+jCPw==
+=czG2
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -67,4 +79,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/magrath
 
 ==================================================================
-
